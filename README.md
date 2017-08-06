@@ -1,2 +1,2 @@
 # blog
-Materials prepared for my blog - analyticsjourneyblog.wordpress.com/
+Jupyter notebook for my blog - analyticsjourneyblog.wordpress.com/
