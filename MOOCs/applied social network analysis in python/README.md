@@ -1,0 +1,1 @@
+**Completed Assignments for Coursera Course "Applied Social Network Analysis in Python"**
